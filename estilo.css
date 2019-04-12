@@ -1,3 +1,7 @@
-p{color: red}
+p{
+    color: red;
+    font-size: 1em;
+}
+
 
 <!-- Onde tiver paragrafo fica da cor red  -->
