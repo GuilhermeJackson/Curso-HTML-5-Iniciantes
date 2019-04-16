@@ -3,5 +3,18 @@ p{
     font-size: 1em;
 }
 
+p.resumo {
+    color:fuchsia    
+}
 
-<!-- Onde tiver paragrafo fica da cor red  -->
+.resumo {
+    font-family: monospace;
+}
+
+<!-- Onde tiver paragrafo fica da cor red e tamanho 1em 
+
+Onde for paragrafo <p> fica com a cor fushsia
+Onde tiver a class resumo sem paragrafo <p> exibir font-family: monospace;
+
+
+-->
